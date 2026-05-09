@@ -1,0 +1,14 @@
+gunicorn
+sentence-transformers
+huggingface-hub
+langchain
+flask
+flask-cors
+pypdf
+openai
+python-dotenv
+pinecone-client
+langchain-pinecone
+langchain-community
+langchain-experimental
+-e .
